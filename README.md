@@ -1,4 +1,9 @@
-# learning-django
+ * learning-django 
+
+ # START SERVE
+ ```
+ python manage.py runserver
+ ```
 
  ## Create venv
  ```
